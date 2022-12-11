@@ -25,8 +25,6 @@ content="""
 <body>
 <h1>TOP FIVE WEB APPLICATION DEVELOPMENT</h1>
 <h2> hello </h2>
-12/11/22, 12:36 PM simplewebserver/README.md at main · sabithapaulraj/simplewebserver
-https://github.com/sabithapaulraj/simplewebserver/blob/main/README.md 2/3
 OUTPUT:
 ##Server Side Output
 <h2>1.Django</h2>
