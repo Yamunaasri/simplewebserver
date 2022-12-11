@@ -50,12 +50,12 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 
 ## OUTPUT:
-##server side
+#server side
 
 ![Screenshot (2)](https://user-images.githubusercontent.com/115707860/206907872-3be79e3d-2fe5-475b-8343-73440cb67cf6.png)
 
 
-##client side
+#client side
 
 ![Screenshot (1)](https://user-images.githubusercontent.com/115707860/206907905-3918b355-86ab-42b1-872c-0d9ea49abacf.png)
 
